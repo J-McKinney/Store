@@ -1,1 +1,1 @@
-# React Redux Firebase Local Session 
+# React Firebase Local Session 
