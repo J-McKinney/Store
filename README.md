@@ -1,1 +1,1 @@
-# React Redux Firebase Local Session Cookies
+# React Redux Firebase Local Session 
