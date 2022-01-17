@@ -19,11 +19,8 @@
   },
   "scripts": {
     "gogo": "git status && git add . && git commit -m 'auto' && git push",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "install:clean": "rm -rf node_modules/ && rm -rf package-lock.json && npm install && npm start",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
